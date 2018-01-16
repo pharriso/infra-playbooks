@@ -1,0 +1,2 @@
+- src: git@gitlab.com:ansible-tower/httpd.git
+  scm: git
