@@ -1,2 +1,2 @@
-- src: git@gitlab.com:ansible-tower/httpd.git
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/build_sat_vm.git
   scm: git
