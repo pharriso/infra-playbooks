@@ -6,3 +6,9 @@
 
 - src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-cns.git
   scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-haproxy.git
+  scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-keepalived.git
+  scm: git
