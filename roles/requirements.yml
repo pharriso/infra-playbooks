@@ -12,3 +12,6 @@
 
 - src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-keepalived.git
   scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-ansible.git
+  scm: git
