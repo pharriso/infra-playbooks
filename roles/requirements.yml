@@ -24,3 +24,6 @@
 
 - src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/test-tower.git
   scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/neutron-net.git
+  scm: git
