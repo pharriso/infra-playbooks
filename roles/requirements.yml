@@ -33,3 +33,9 @@
 
 - src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-restart-masters.git
   scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-deploy-logging.git
+  scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-default-storage.git
+  scm: git
