@@ -1,0 +1,7 @@
+---
+
+- hosts: all
+  gather_facts: false
+  roles:
+    - ocp-gluster-block
+
