@@ -42,3 +42,6 @@
 
 - src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-gluster-block.git
   scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/register-satellite.git
+  scm: git
