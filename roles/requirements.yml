@@ -45,3 +45,6 @@
 
 - src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/register-satellite.git
   scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/create_rhv_vm.git
+  scm: git
