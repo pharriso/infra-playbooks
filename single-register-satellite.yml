@@ -1,0 +1,6 @@
+---
+
+- hosts: "{{ vm_name }}"
+  gather_facts: false
+  roles:
+    - register-satellite
