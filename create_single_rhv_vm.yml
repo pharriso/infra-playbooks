@@ -1,6 +1,6 @@
 ---
 
-- hosts: "{{ vm_name }}"
+- hosts: all
   gather_facts: false
   roles:
     - create_single_rhv_vm
