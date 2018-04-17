@@ -48,3 +48,6 @@
 
 - src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/create_rhv_vm.git
   scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/create_single_rhv_vm.git
+  scm: git
