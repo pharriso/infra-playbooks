@@ -54,3 +54,6 @@
 
 - src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/delete_rhv_vm.git
   scm: git
+
+- src: ssh://git@gitlab.consulting.redhat.com:2222/demolab/ocp-fail-if-api-available.git
+  scm: git
