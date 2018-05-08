@@ -2,5 +2,6 @@
 
 - hosts: all
   gather_facts: false
+  connection: local
   roles:
     - delete_rhv_vm
